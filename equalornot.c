@@ -6,7 +6,7 @@ void main()
     printf("Enter any two numbers: ");
     scanf("%d %d", &num1, &nunm2);
     if (num1 == num2)
-        printf("Both are equal\n");
+        printf("num1 and num2 are equal\n");
     else
-        printf("Both are not equal\n");
+        printf("num1 and num2 are not equal\n");
 }
